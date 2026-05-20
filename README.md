@@ -18,4 +18,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=deepakchauhan-03&show_icons=true&locale=en&layout=compact" alt="deepakchauhan-03" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deepakchauhan-03&" alt="deepakchauhan-03" /></p>
+
